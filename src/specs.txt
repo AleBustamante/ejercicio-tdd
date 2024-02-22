@@ -1,0 +1,19 @@
+1. imprimir secuancia para 1 numero
+2. imprimir secuancia para mas numeros tomando en cuenta fizz
+3. imprimir secuancia para mas numeros tomando en cuenta buzz
+4. imprimir secuancia para mas numeros tomando en cuenta fizz y buzz
+
+
+Casos prueba
+1. imprimir secuancia para 1 numero
+    1.1. Si genero para num sin regla devuelve el mismo numero ej. generar(1) => 1
+    1.1. Si genero para num sin regla devuelve el mismo numero ej. generar(2) => 2
+2. imprimir secuancia para mas numeros tomando en cuenta fizz
+    2.1. Si genero para num con regla fizz devuelve Fizz ej. generar(3) => Fizz
+    2.2. Si genero para num con regla fizz devuelve Fizz ej. generar(6) => Fizz
+3. imprimir secuancia para mas numeros tomando en cuenta buzz
+    3.1. Si genero para num con regla buzz devuelve Buzz ej. generar(5) => Buzz
+    3.2. Si genero para num con regla buzz devuelve Buzz ej. generar(10) => Buzz
+4. imprimir secuancia para mas numeros tomando en cuenta fizz y buzz
+    4.1. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(5) => FizzBuzz
+    4.2. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(10) => FizzBuzz
