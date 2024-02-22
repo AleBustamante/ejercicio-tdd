@@ -1,5 +1,5 @@
 function generarFizzBuzz(numero) {
-    return "1";
+    return numero + "";
 }
 
 export default generarFizzBuzz;
