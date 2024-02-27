@@ -11,4 +11,7 @@ describe("FizzBuzz", () => {
     it("Deberia generar el mismo numero para uno que tiene la regla Fizz caso numero 3", () => {
         expect(generarFizzBuzz(3)).toEqual("Fizz");
     });
+    it("Deberia generar el mismo numero para uno que tiene la regla Fizz caso numero 6", () => {
+        expect(generarFizzBuzz(6)).toEqual("Fizz");
+    });
 });
