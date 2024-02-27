@@ -1,5 +1,5 @@
 function generarFizzBuzz(numero) {
-    if (numero === 15) {
+    if (numero % 3 === 0 && numero % 5 === 0) {
         return "Fizz Buzz";
     }
     else if (numero % 3 === 0) {
