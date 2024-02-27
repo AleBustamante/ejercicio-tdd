@@ -20,4 +20,7 @@ describe("FizzBuzz", () => {
     it("Deberia generar el texto Buzz para uno que es divisible entre 5 caso numero 10", () => {
         expect(generarFizzBuzz(10)).toEqual("Buzz");
     });
+    it("Deberia generar el texto Fizz Buzz para uno que es divisible entre 3 y 5 caso numero 15", () => {
+        expect(generarFizzBuzz(15)).toEqual("Fizz Buzz");
+    });
 });

@@ -15,5 +15,5 @@ Casos prueba
     3.1. Si genero para num con regla buzz devuelve Buzz ej. generar(5) => Buzz
     3.2. Si genero para num con regla buzz devuelve Buzz ej. generar(10) => Buzz
 4. imprimir secuancia para mas numeros tomando en cuenta fizz y buzz
-    4.1. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(5) => FizzBuzz
-    4.2. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(10) => FizzBuzz
+    4.1. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(15) => FizzBuzz
+    4.2. Si genero para num con regla fizz buzz devuelve FizzBuzz ej. generar(30) => FizzBuzz
